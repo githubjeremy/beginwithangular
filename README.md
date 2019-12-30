@@ -1,20 +1,20 @@
 # Begin With Angular
 
-Firstly you have to download the last version of LTS from Node.js
+Firstly you have to download the last version of LTS from Node.js :
 https://nodejs.org/en/download/
 
-Then, install NPM package and ANGULAR/CLI
+Then, install NPM package and ANGULAR/CLI :
 npm install -g npm@latest
 npm install -g @angular/cli
 
-Then, create the project with the commande as follow
+Then, create the project with the commande as follow :
 ng new projectname
-or skip the tests with the commande as follow
-ng new mon-projet-angular --skip-tests=true
+or skip the tests with the commande as follow :
+ng new projectname --skip-tests=true
 
-Then, you can install bootstrap and all dependences that you want
+Then, you can install bootstrap and all dependences that you want :
 npm install bootstrap@versionnumber --save
-And add this line in the styles point of angular.json
+And add this line in the styles point of angular.json :
 "node_modules/bootstrap/dist/css/bootstrap.css"
 
 # Starter Project
