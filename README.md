@@ -27,6 +27,12 @@ If you want clone a copy of the repository :
 git clone https://github.com/githubjeremy/beginwithangular.git
 ```
 
+And run this commande to install node_module :
+
+```bash
+npm install
+```
+
 ## Bootstrap
 
 You have the possibility to install bootstrap and all dependences that you want :
